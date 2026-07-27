@@ -1,0 +1,15 @@
+{
+  "tasks": [
+    {
+      "title": "angular  updated",
+      "description": "learn updated",
+      "id": "oIl3g_6vKck"
+    },
+    {
+      "title": "",
+      "description": "",
+      "id": "YASu5LGh-aU"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
